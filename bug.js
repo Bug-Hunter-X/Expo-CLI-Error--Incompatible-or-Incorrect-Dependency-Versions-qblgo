@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI with a project that has a package.json file containing an incorrect or incompatible version of a dependency. It can manifest in various ways, including unexpected build failures, runtime errors, or even the inability to start the development server.
